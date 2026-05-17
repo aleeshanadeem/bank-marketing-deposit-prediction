@@ -75,7 +75,7 @@ The Decision Tree Classifier showed balanced and reliable performance for deposi
 
 ---
 
-## Libraries Used
+## Libraries 
 
 - Pandas
 - NumPy
@@ -106,5 +106,7 @@ Further improvements can be achieved using:
 ## Author
 
 **Aleesha Nadeem**
+
+2(AN)K
 
 Learning Journey: Machine Learning | Data Science | Kaggle
