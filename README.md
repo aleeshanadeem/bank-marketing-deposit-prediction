@@ -18,7 +18,6 @@ The dataset contains customer information collected from bank marketing campaign
 - Education
 - Balance
 - Housing Loan
-- Personal Loan
 - Contact Type
 - Campaign Information
 - Previous Outcomes
@@ -41,7 +40,7 @@ The dataset contains customer information collected from bank marketing campaign
 Performed exploratory analysis using visualizations to understand:
 - Category distributions
 - Feature patterns
-- Customer behavior insights
+- Customer behavior insights analysis
 
 ### 3. Data Preprocessing
 - Encoded categorical variables using Label Encoding
