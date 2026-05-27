@@ -33,7 +33,7 @@ The dataset contains customer information collected from bank marketing campaign
 ## Project Workflow
 
 ### 1. Data Loading
-- Imported dataset using Pandas
+- Imported dataset
 - Initial exploration of records and columns
 
 ### 2. Data Visualization
